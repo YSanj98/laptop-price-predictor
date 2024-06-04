@@ -1,0 +1,21 @@
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Python bytecode
+__pycache__/
+
+# Environment files
+.env
+venv/  # For virtualenv
+.venv/  # For venv
+pyenv/  # For pyenv
+
+# IDE and editor specific files
+# Choose only the ones relevant to your IDE/editor
+.idea/
+.vscode/
+
+# OS specific temporary files
+# Remove if you don't need them
+.DS_Store
+Thumbs.db
